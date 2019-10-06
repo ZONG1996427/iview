@@ -59,7 +59,9 @@
             <Breadcrumb :style="{margin: '24px 0'}">
               <BreadcrumbItem>Home</BreadcrumbItem>
               <BreadcrumbItem>Components</BreadcrumbItem>
-              <BreadcrumbItem>Layout11111</BreadcrumbItem>
+              <BreadcrumbItem>Layout</BreadcrumbItem>
+              <BreadcrumbItem>Components</BreadcrumbItem>
+              <BreadcrumbItem>Layout</BreadcrumbItem>
             </Breadcrumb>
             <Content :style="{padding: '24px', minHeight: '280px', background: '#fff'}">
               Content
